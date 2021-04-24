@@ -11,6 +11,8 @@ h3 {
     text-align: center;
 }
 
-.image {
-    text-align: center;
+.backgrown {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
