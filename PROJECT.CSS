@@ -5,3 +5,12 @@ body {
 .copy {
     text-align: center;
 }
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
