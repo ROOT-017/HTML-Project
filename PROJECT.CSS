@@ -21,9 +21,6 @@ body {
     border: 0;
 }
 
-.house {
+.type {
     margin: 10px;
-    padding: 20px;
-    border: solid 20px red;
-    box-sizing: border-box;
 }
