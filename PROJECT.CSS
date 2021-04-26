@@ -2,7 +2,8 @@ body {
     background-color: beige;
 }
 
-.copy {
+.copy,
+.link {
     text-align: center;
 }
 
@@ -23,4 +24,8 @@ body {
 
 .type {
     margin: 10px;
+}
+
+.link {
+    text-align: center;
 }
