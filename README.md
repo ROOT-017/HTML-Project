@@ -1,7 +1,7 @@
 # HTML-Project
 
-Simple HTML project with little or basic CSS added for backgrown
-It an imaginary Cofee company with 4 page
+Simple HTML project with little or basic CSS added for background
+It an imaginary Cofee company with 4 pages
 
 - About Page which is the Home page of the imaginary site
 - Contact page which is the contact for suggestion and any appropriate mail
